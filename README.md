@@ -29,40 +29,46 @@
 I'm most comfortable with:
 
 <div align="center">
-<img style="margin:5px;" align="center" alt="python" width="30px" src="images/python.png" /> 
-<img style="margin:5px;" align="center" alt="javascript" width="20px" src="images/javascript.png" /> 
-<img style="margin:5px;" align="center" alt="flask" width="20px" src="images/flask.png" /> 
-<img style="margin:5px;" align="center" alt="bootstrap" width="30px" src="images/bootstrap.png" /> 
-<img style="margin:0px;" align="center" alt="mongodb" width="30px" src="images/mongodb.png" />
+<img  align="center" alt="python" width="30px" src="images/python.png" /> 
+<img  align="center" alt="javascript" width="20px" src="images/javascript.png" /> 
+<img  align="center" alt="flask" width="20px" src="images/flask.png" /> 
+<img  align="center" alt="bootstrap" width="30px" src="images/bootstrap.png" /> 
+<img  align="center" alt="mongodb" width="30px" src="images/mongodb.png" />
 </div>
 
 But I have also worked with:
 
 <div align="center">
-<img style="margin:5px;" align="center" alt="typescript" width="30px" src="images/typescript.png" /> 
-<img style="margin:5px;" align="center" alt="nodejs" width="20px" src="images/nodejs.png" /> 
-<img style="margin:0px;" align="center" alt="react" width="30px" src="images/react.png" />
-<img style="margin:5px;" align="center" alt="docker" width="30px" src="images/docker.png" /> 
-<img style="margin:5px;" align="center" alt="git" width="25px" src="images/git.png" /> 
+<img  align="center" alt="typescript" width="30px" src="images/typescript.png" /> 
+<img  align="center" alt="nodejs" width="20px" src="images/nodejs.png" /> 
+<img  align="center" alt="react" width="30px" src="images/react.png" />
+<img  align="center" alt="docker" width="30px" src="images/docker.png" /> 
+<img  align="center" alt="git" width="25px" src="images/git.png" /> 
 </div>
 
-#### Data
+&nbsp;
 
-<div align="center" style="margin:20px;">
-<img style="margin:5px;" align="center" alt="sql" width="30px" src="images/sql.png" /> 
-<img style="margin:5px;" align="center" alt="python" width="30px" src="images/python.png" /> 
-<img style="margin:5px;" align="center" alt="pandas" width="30px" src="images/pandas.svg" /> 
-<img style="margin:7px;" align="center" alt="matplotlib" width="30px" src="images/matplotlib.png" /> 
-<img style="margin:7px;" align="center" alt="seaborn" width="30px" src="images/seaborn.png" />
+...and i'm always keen to learn more!
+
+#### Data-specific stuff
+
+<div align="center" >
+<img  align="center" alt="sql" width="30px" src="images/sql.png" /> 
+<img  align="center" alt="python" width="30px" src="images/python.png" /> 
+<img  align="center" alt="pandas" width="30px" src="images/pandas.svg" /> 
+<img  align="center" alt="matplotlib" width="30px" src="images/matplotlib.png" /> 
+<img  align="center" alt="seaborn" width="30px" src="images/seaborn.png" />
 </div>
+&nbsp;
 
-I also on diving deeper into the data science ecosystem with libraries such as scikit-learn to build on [my learning](https://github.com/ismailmo1/ml_ng)
+I also plan on diving deeper into the data science ecosystem with libraries such as scikit-learn to build on [my learnings](https://github.com/ismailmo1/ml_ng)
 from Andrew Ng's Machine learning course.
 
-<div align="center"  style="margin:20px;">
+<div align="center"  >
 <img style="margin:5px;" align="center" alt="excel" width="50px" src="images/excel.png" />
 <img style="margin:5px;" align="center" alt="vbayuck" width="35px" src="images/vba.png" />
 <img style="margin:5px;" align="center" alt="powerbi" width="35px" src="images/powerbi.png" />
 </div>
-  
-  I'm not against using other tools such as excel or PowerBI for quick analysis and communicating with non technical users though!
+&nbsp;
+
+I'm not against using other tools such as excel or PowerBI for quick analysis and communicating with non technical users though!
