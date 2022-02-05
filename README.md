@@ -1,49 +1,48 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/ismailmo-chem/">
-  <img style="margin:10px;" align="center" alt="Ismail's LinkedIN" width="22px" src="images/linkedin.svg" />
-</a>
+  <img align="center" alt="Ismail's LinkedIN" width="22px" src="images/linkedin.svg" />
+</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.ismailmo.com">
-  <img style="margin:10px;" align="center" alt="Ismail's Website" width="22px" src="images/website.png" />
-</a>
+  <img align="center" alt="Ismail's Website" width="22px" src="images/website.png" />
+</a> 
 </div>
 
 ---
 
-### Hi, I'm Ismail - thanks for checking out my github.
+### Hi, I'm Ismail - thanks for checking out my profile!
 
--   I'm currently working on improving my frontend skills with React, have a look at my most recent [project](https://github.com/ismailmo1/ucl-draw)
-    where you can simulate a champions league draw. :soccer:
+-   I'm currently working on a [champions league draw simulator](https://github.com/ismailmo1/ucl-draw).
+    :soccer:
 
 ### About Me
 
-🎓 My education was in chemical engineering 🧪
+-   🎓 My education was in chemical engineering 🧪
+-   👔 My first jobs were in manufacturing :factory:
+-   🤖 I first learnt to code automating tasks with excel VBA, I then discovered python and it spiralled out of control from there!
+-   🛠️ I enjoy building things that I think are cool or can help solve a real problem - It's mostly web focussed now as it's more fun when it's easier to share
 
-👔 I have experience working in manufacturing :factory:
+<details>
+<summary><b>💻 Technologies</b></summary>
+&nbsp;
 
-🤖 I first learnt to code automating tasks with excel VBA and then discovering python and it spiralled out of control from there!
-
-🛠️ I enjoy building things that I think are cool or can help solve a real problem - It's mostly web focussed since it's the easiest way to share my work and normal people don't want to run my apps via a CLI 😔
-
-### Technologies
-
-I'm most comfortable with:
+I'm comfortable with:
 
 <div align="center">
-<img  align="center" alt="python" width="30px" src="images/python.png" /> 
-<img  align="center" alt="javascript" width="20px" src="images/javascript.png" /> 
-<img  align="center" alt="flask" width="20px" src="images/flask.png" /> 
-<img  align="center" alt="bootstrap" width="30px" src="images/bootstrap.png" /> 
+<img  align="center" alt="python" width="30px" src="images/python.png" /> &nbsp;
+<img  align="center" alt="javascript" width="20px" src="images/javascript.png" />&nbsp; &nbsp;
+<img  align="center" alt="flask" width="20px" src="images/flask.png" /> &nbsp;
+<img  align="center" alt="bootstrap" width="30px" src="images/bootstrap.png" /> &nbsp;
 <img  align="center" alt="mongodb" width="30px" src="images/mongodb.png" />
 </div>
 
-But I have also worked with:
+I'm getting comfortable with:
 
 <div align="center">
-<img  align="center" alt="typescript" width="30px" src="images/typescript.png" /> 
-<img  align="center" alt="nodejs" width="20px" src="images/nodejs.png" /> 
-<img  align="center" alt="react" width="30px" src="images/react.png" />
-<img  align="center" alt="docker" width="30px" src="images/docker.png" /> 
-<img  align="center" alt="git" width="25px" src="images/git.png" /> 
+<img  align="center" alt="typescript" width="30px" src="images/typescript.png" /> &nbsp;
+<img  align="center" alt="nodejs" width="20px" src="images/nodejs.png" /> &nbsp;
+<img  align="center" alt="react" width="30px" src="images/react.png" />&nbsp;
+<img  align="center" alt="docker" width="30px" src="images/docker.png" /> &nbsp;
+<img  align="center" alt="git" width="25px" src="images/git.png" /> &nbsp;
 </div>
 
 &nbsp;
@@ -72,3 +71,26 @@ from Andrew Ng's Machine learning course.
 &nbsp;
 
 I'm not against using other tools such as excel or PowerBI for quick analysis and communicating with non technical users though!
+
+</details>
+&nbsp;
+
+<details>
+<summary><b>🗂️ Key Projects</b></summary>
+<h3>🥧 Formpy</h3>
+A platform to create multiple choice forms and analyse the scanned responses with optical mark recognition.
+
+[repository](https://github.com/ismailmo1/formpy-app) || [live website](https://formpy.ismailmo.com).
+
+<h3>🏕️ YelpCamp</h3>
+A website to review campgrounds - like Yelp but for campgrounds.
+
+[repository](https://github.com/ismailmo1/yelpcamp) || [live website](https://yelpcamp.ismailmo.com).
+
+<h3>⚗️ ChemXL</h3>
+
+An Excel add-in to retrieve chemical information - based on the [ChemSpider API](https://developer.rsc.org/)
+
+[repository](https://github.com/ismailmo1/chemspider-xl) || [demo](https://drive.google.com/file/d/177IXOd4VUMphvt2_oDGPFrTLad4iVEab/view?usp=sharing)
+
+</details>
