@@ -11,8 +11,8 @@
 
 ### Hi, I'm Ismail - thanks for checking out my profile!
 
--   I'm currently working on a [champions league draw simulator](https://github.com/ismailmo1/ucl-draw).
-    :soccer:
+-   I'm currently working on [sentiment analysis of reddit comments during a football match](https://github.com/ismailmo1/matchday-sentiment) using Azure cognitive services.
+    ☁️
 
 ### About Me
 
@@ -60,8 +60,8 @@ I'm getting comfortable with:
 </div>
 &nbsp;
 
-I also plan on diving deeper into the data science ecosystem with libraries such as scikit-learn to build on [my learnings](https://github.com/ismailmo1/ml_ng)
-from Andrew Ng's Machine learning course.
+I'm currently taking a deep dive into the python ML/AI ecosystem through the [sci-kit learn MOOC](https://github.com/ismailmo1/sklearn-mooc) to build on my learnings
+from Andrew Ng's [Machine learning course](https://github.com/ismailmo1/ml_ng).
 
 <div align="center"  >
 <img style="margin:5px;" align="center" alt="excel" width="50px" src="images/excel.png" />
@@ -81,6 +81,11 @@ I'm not against using other tools such as excel or PowerBI for quick analysis an
 A platform to create multiple choice forms and analyse the scanned responses with optical mark recognition.
 
 [repository](https://github.com/ismailmo1/formpy-app) || [live website](https://formpy.ismailmo.com).
+
+<h3>⚽ Champions League Draw Simulator</h3>
+A web app to simulate the champions league round of 16 draw.
+
+[repository](https://github.com/ismailmo1/ucl-draw) || [live website](ucl-draw.web.app/).
 
 <h3>🏕️ YelpCamp</h3>
 A website to review campgrounds - like Yelp but for campgrounds.
