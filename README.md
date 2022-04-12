@@ -19,68 +19,78 @@
 -   🎓 My education was in chemical engineering 🧪
 -   👔 My first jobs were in manufacturing :factory:
 -   🤖 I first learnt to code automating tasks with excel VBA, I then discovered python and it spiralled out of control from there!
--   🛠️ I enjoy building things that I think are cool or can help solve a real problem - It's mostly web focussed now as it's more fun when it's easier to share
+-   🛠️ I enjoy building things - it's mostly web focussed now as it's more fun when it's easier to share
 
 <details>
 <summary><b>💻 Technologies</b></summary>
 &nbsp;
 
-I'm comfortable with:
+Find the full list of courses i've taken [here](https://github.com/ismailmo1/courses)
+
+&nbsp;
+
+Languages I'm comfortable with:
 
 <div align="center">
 <img  align="center" alt="python" width="30px" src="images/python.png" /> &nbsp;
 <img  align="center" alt="javascript" width="20px" src="images/javascript.png" />&nbsp; &nbsp;
-<img  align="center" alt="flask" width="20px" src="images/flask.png" /> &nbsp;
-<img  align="center" alt="bootstrap" width="30px" src="images/bootstrap.png" /> &nbsp;
-<img  align="center" alt="mongodb" width="30px" src="images/mongodb.png" />
 </div>
 
-I'm getting comfortable with:
+Tools:
 
 <div align="center">
-<img  align="center" alt="typescript" width="30px" src="images/typescript.png" /> &nbsp;
-<img  align="center" alt="nodejs" width="20px" src="images/nodejs.png" /> &nbsp;
-<img  align="center" alt="react" width="30px" src="images/react.png" />&nbsp;
-<img  align="center" alt="docker" width="30px" src="images/docker.png" /> &nbsp;
-<img  align="center" alt="git" width="25px" src="images/git.png" /> &nbsp;
+<img  align="center" alt="bash" width="30px" src="images/bash.png" /> &nbsp;
+<img  align="center" alt="bash" width="30px" src="images/git.png" /> &nbsp;
+<img  align="center" alt="linux" width="20px" src="images/docker.png" />&nbsp;
 </div>
 
-&nbsp;
-
-...and i'm always keen to learn more!
-
-#### Data-specific stuff
+Data technologies:
 
 <div align="center" >
+<img  align="center" alt="mongodb" width="30px" src="images/mongodb.png" />
 <img  align="center" alt="sql" width="30px" src="images/sql.png" /> 
-<img  align="center" alt="python" width="30px" src="images/python.png" /> 
 <img  align="center" alt="pandas" width="30px" src="images/pandas.svg" /> 
 <img  align="center" alt="matplotlib" width="30px" src="images/matplotlib.png" /> 
 <img  align="center" alt="seaborn" width="30px" src="images/seaborn.png" />
 </div>
-&nbsp;
 
-I'm currently taking a deep dive into the python ML/AI ecosystem through the [sci-kit learn MOOC](https://github.com/ismailmo1/sklearn-mooc) to build on my learnings
-from Andrew Ng's [Machine learning course](https://github.com/ismailmo1/ml_ng).
+Web technologies:
 
-<div align="center"  >
-<img style="margin:5px;" align="center" alt="excel" width="50px" src="images/excel.png" />
-<img style="margin:5px;" align="center" alt="vbayuck" width="35px" src="images/vba.png" />
-<img style="margin:5px;" align="center" alt="powerbi" width="35px" src="images/powerbi.png" />
+<div align="center">
+<img  align="center" alt="flask" width="20px" src="images/flask.png" /> &nbsp;
+<img  align="center" alt="nodejs" width="20px" src="images/nodejs.png" /> &nbsp;
+<img  align="center" alt="react" width="30px" src="images/react.png" />&nbsp;
+<img  align="center" alt="bootstrap" width="30px" src="images/bootstrap.png" /> &nbsp;
 </div>
-&nbsp;
 
-I'm not against using other tools such as excel or PowerBI for quick analysis and communicating with non technical users though!
+I'm learning:
+<div align="center">
+<img  align="center" alt="jenkins" width="35px" src="images/jenkins.png" /> &nbsp;
+<img  align="center" alt="kubernetes" width="25px" src="images/kubernetes.png" /> &nbsp;
+</div>
+
+
+...and i'm always keen to learn more!
 
 </details>
 &nbsp;
 
 <details>
 <summary><b>🗂️ Key Projects</b></summary>
+&nbsp;
+
+learn how I host all of these websites [here](https://github.com/ismailmo1/linode-config)
+
+
 <h3>🥧 Formpy</h3>
 A platform to create multiple choice forms and analyse the scanned responses with optical mark recognition.
 
 [repository](https://github.com/ismailmo1/formpy-app) || [live website](https://formpy.ismailmo.com).
+
+<h3>🌯 Myfitnesspal Wrapped</h3>
+Inspired by Spotify's wrapped campaign: a data app that scrapes and analyses your food diary data from myfitnesspal.
+
+[repository](https://github.com/ismailmo1/mfp-wrapped) || [live website](https://wrapped.ismailmo.com/).
 
 <h3>⚽ Champions League Draw Simulator</h3>
 A web app to simulate the champions league round of 16 draw.
