@@ -11,15 +11,14 @@
 
 ### Hi, I'm Ismail - thanks for checking out my profile!
 
--   I'm currently working on [sentiment analysis of reddit comments during a football match](https://github.com/ismailmo1/matchday-sentiment) using Azure cognitive services.
-    ☁️
+- I'm currently working on [an app to keep track of your family with family trees](https://github.com/ismailmo1/family-tree) using NextJS/React, FastAPI and Neo4J.
 
 ### About Me
 
--   🎓 My education was in chemical engineering 🧪
--   👔 My first jobs were in manufacturing :factory:
--   🤖 I first learnt to code automating tasks with excel VBA, I then discovered python and it spiralled out of control from there!
--   🛠️ I enjoy building things - it's mostly web focussed now as it's more fun when it's easier to share
+- 🎓 My education was in chemical engineering 🧪
+- 👔 My first jobs were in manufacturing :factory:
+- 🤖 I first learnt to code automating tasks with excel VBA, I then discovered python and it spiralled out of control from there!
+- 🛠️ I enjoy building things - it's mostly web focussed now as it's more fun when it's easier to share
 
 <details>
 <summary><b>💻 Technologies</b></summary>
@@ -64,11 +63,11 @@ Web technologies:
 </div>
 
 I'm learning:
+
 <div align="center">
 <img  align="center" alt="jenkins" width="35px" src="images/jenkins.png" /> &nbsp;
 <img  align="center" alt="kubernetes" width="25px" src="images/kubernetes.png" /> &nbsp;
 </div>
-
 
 ...and i'm always keen to learn more!
 
@@ -80,7 +79,6 @@ I'm learning:
 &nbsp;
 
 learn how I host all of these websites [here](https://github.com/ismailmo1/linode-config)
-
 
 <h3>🥧 Formpy</h3>
 A platform to create multiple choice forms and analyse the scanned responses with optical mark recognition.
