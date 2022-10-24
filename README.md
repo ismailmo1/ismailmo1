@@ -11,7 +11,7 @@
 
 ### Hi, I'm Ismail - thanks for checking out my profile!
 
-- I'm currently working on [an app to keep track of your family with family trees](https://github.com/ismailmo1/family-tree) using NextJS/React, FastAPI and Neo4J.
+- I'm currently working on [fastai's Deep Learning course](https://github.com/ismailmo1/fastbook). Check out my [huggingface account](https://huggingface.co/ismailmo1) where i'll initially be deploying some smaller projects.
 
 ### About Me
 
