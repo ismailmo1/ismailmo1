@@ -62,13 +62,6 @@ Web technologies:
 <img  align="center" alt="bootstrap" width="30px" src="images/bootstrap.png" /> &nbsp;
 </div>
 
-I'm learning:
-
-<div align="center">
-<img  align="center" alt="jenkins" width="35px" src="images/jenkins.png" /> &nbsp;
-<img  align="center" alt="kubernetes" width="25px" src="images/kubernetes.png" /> &nbsp;
-</div>
-
 ...and i'm always keen to learn more!
 
 </details>
