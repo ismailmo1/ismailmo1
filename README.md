@@ -11,14 +11,11 @@
 
 ### Hi, I'm Ismail - thanks for checking out my profile!
 
-- I'm currently working on [fastai's Deep Learning course](https://github.com/ismailmo1/fastbook). Check out my [huggingface account](https://huggingface.co/ismailmo1) where i'll initially be deploying some smaller projects.
-
 ### About Me
 
 - 🎓 My education was in chemical engineering 🧪
 - 👔 My first jobs were in manufacturing :factory:
-- 🤖 I first learnt to code automating tasks with excel VBA, I then discovered python and it spiralled out of control from there!
-- 🛠️ I enjoy building things - it's mostly web focussed now as it's more fun when it's easier to share
+- 🤖 I first learnt to code automating tasks with excel VBA, I then discovered python and it spiralled out of control from there
 
 <details>
 <summary><b>💻 Technologies</b></summary>
